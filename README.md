@@ -1,14 +1,4 @@
-# UniDD
-
-Official PyTorch implementation of:
-
-**Understanding Dataset Distillation via Spectral Filtering**  
-Deyu Bo, Songhua Liu, Xinchao Wang  
-ICLR 2026
-
-UniDD is a research codebase for understanding and improving dataset distillation through spectral filtering. The repository includes teacher pretraining, feature-statistics extraction, synthetic data generation, and distilled-data training with online soft labels across CIFAR-10, CIFAR-100, Tiny-ImageNet, and ImageNet settings.
-
-## News
+# Understanding Dataset Distillation via Spectral Filtering
 
 - `ICLR 2026`: **Understanding Dataset Distillation via Spectral Filtering** was accepted to ICLR 2026.
 
@@ -45,7 +35,6 @@ UniDD/
 +-- statistic/                    # cached running feature statistics
 +-- hf_dataset/                   # local Hugging Face dataset shard
 +-- save/                         # training outputs
-`-- archive/                      # older experiments and validation code
 ```
 
 ## Installation
