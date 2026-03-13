@@ -1,6 +1,7 @@
 # Understanding Dataset Distillation via Spectral Filtering
 
-- `ICLR 2026`: **Understanding Dataset Distillation via Spectral Filtering** was accepted to ICLR 2026.
+- `ICLR 2026`: **UniDD** was accepted to ICLR 2026.
+- **This project is being refactored using Vibe Coding. Please contact me via email if you encounter any problems.**
 
 ## Overview
 
